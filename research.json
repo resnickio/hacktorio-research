@@ -28,9 +28,9 @@
       "elevated-rails": "2.1.23",
       "flib": "0.17.2",
       "mining-patch-planner": "1.7.22",
-      "pump": "2.2.4",
+      "pump": "2.2.5",
       "quality": "2.1.23",
-      "realm-director": "0.1.0",
+      "realm-director": "0.2.0",
       "realm-kits": "0.1.0",
       "realm-research": "0.2.0",
       "recycler": "2.1.23",
@@ -453,7 +453,7 @@
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 4039183,
-  "time": "2026-10-26T23:11:50Z",
+  "tick": 4104733,
+  "time": "2026-10-26T23:30:17Z",
   "version": 1
 }

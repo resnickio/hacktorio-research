@@ -1,10 +1,10 @@
 {
   "evolution": {
-    "nauvis": 0.7802
+    "nauvis": 0.7879
   },
   "format": "hacktorio-status",
   "game_version": "2.1.23",
-  "map_age_seconds": 66687,
+  "map_age_seconds": 68470,
   "max_players": 4,
   "mods": {
     "AutoDeconstruct": "1.1.2",
@@ -17,8 +17,8 @@
     "bullet-trails": "0.8.0",
     "flib": "0.17.2",
     "mining-patch-planner": "1.7.22",
-    "pump": "2.2.4",
-    "realm-director": "0.1.0",
+    "pump": "2.2.5",
+    "realm-director": "0.2.0",
     "realm-kits": "0.1.0",
     "realm-research": "0.2.0",
     "squeak-through-2": "0.2.1",
@@ -28,7 +28,7 @@
   },
   "players_online": 1,
   "up": true,
-  "up_since": "2026-10-26T21:19:20Z",
-  "updated": "2026-10-26T23:01:16Z",
+  "up_since": "2026-10-26T23:30:08Z",
+  "updated": "2026-10-26T23:32:06Z",
   "version": 1
 }
