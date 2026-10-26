@@ -407,6 +407,7 @@
     "refined-flammables-1",
     "refined-flammables-2",
     "refined-flammables-3",
+    "refined-flammables-4",
     "repair-pack",
     "research-speed-1",
     "research-speed-2",
@@ -447,7 +448,7 @@
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 3869313,
-  "time": "2026-10-26T22:20:53Z",
+  "tick": 3911015,
+  "time": "2026-10-26T22:32:28Z",
   "version": 1
 }
