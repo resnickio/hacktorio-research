@@ -366,6 +366,7 @@
     "laser-shooting-speed-3",
     "laser-shooting-speed-4",
     "laser-shooting-speed-5",
+    "laser-shooting-speed-6",
     "laser-turret",
     "laser-weapons-damage-1",
     "laser-weapons-damage-2",
@@ -452,7 +453,7 @@
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 4015045,
-  "time": "2026-10-26T23:05:07Z",
+  "tick": 4039183,
+  "time": "2026-10-26T23:11:50Z",
   "version": 1
 }
