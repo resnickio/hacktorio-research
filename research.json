@@ -373,6 +373,7 @@
     "laser-weapons-damage-2",
     "laser-weapons-damage-3",
     "laser-weapons-damage-4",
+    "laser-weapons-damage-5",
     "logistic-robotics",
     "logistic-science-pack",
     "logistics",
@@ -455,7 +456,7 @@
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 4164401,
-  "time": "2026-10-26T23:47:55Z",
+  "tick": 4167164,
+  "time": "2026-10-26T23:49:23Z",
   "version": 1
 }
