@@ -9,7 +9,7 @@
     "mining_drill_productivity_bonus": 0.4,
     "train_braking_force_bonus": 0.7000000000000001,
     "worker_robots_battery_modifier": 0,
-    "worker_robots_speed_modifier": 5.75,
+    "worker_robots_speed_modifier": 6.2,
     "worker_robots_storage_bonus": 2
   },
   "force": "player",
@@ -114,6 +114,8 @@
     "cargo-wagon",
     "chemical-plant",
     "chemical-science-pack",
+    "cluster-grenade",
+    "combat-shotgun",
     "concrete",
     "constant-combinator",
     "construction-robot",
@@ -361,6 +363,7 @@
     "laser-shooting-speed-2",
     "laser-shooting-speed-3",
     "laser-shooting-speed-4",
+    "laser-shooting-speed-5",
     "laser-turret",
     "laser-weapons-damage-1",
     "laser-weapons-damage-2",
@@ -376,6 +379,7 @@
     "military",
     "military-2",
     "military-3",
+    "military-4",
     "military-science-pack",
     "mining-productivity-1",
     "mining-productivity-2",
@@ -439,10 +443,11 @@
     "weapon-shooting-speed-5",
     "worker-robots-speed-1",
     "worker-robots-speed-2",
+    "worker-robots-speed-3",
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 3833198,
-  "time": "2026-10-26T22:10:51Z",
+  "tick": 3869313,
+  "time": "2026-10-26T22:20:53Z",
   "version": 1
 }
