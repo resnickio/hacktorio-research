@@ -63,7 +63,7 @@
     "rocket-fuel-productivity": 1,
     "rocket-part-productivity": 1,
     "scrap-recycling-productivity": 1,
-    "steel-plate-productivity": 2,
+    "steel-plate-productivity": 3,
     "stronger-explosives-7": 7,
     "worker-robots-speed-7": 7
   },
@@ -84,8 +84,8 @@
     "stone-furnace"
   ],
   "recipe_productivity": {
-    "casting-steel": 0.1,
-    "steel-plate": 0.1
+    "casting-steel": 0.2,
+    "steel-plate": 0.2
   },
   "recipes": [
     "accumulator",
@@ -100,6 +100,7 @@
     "basic-oil-processing",
     "battery",
     "battery-equipment",
+    "battery-mk2-equipment",
     "beacon",
     "belt-immunity-equipment",
     "big-electric-pole",
@@ -193,6 +194,7 @@
     "oil-refinery",
     "pamk3-hvest",
     "pamk3-lvest",
+    "pamk3-nvmk2",
     "parameter-0",
     "parameter-1",
     "parameter-2",
@@ -305,6 +307,7 @@
     "automobilism",
     "battery",
     "battery-equipment",
+    "battery-mk2-equipment",
     "belt-immunity-equipment",
     "braking-force-1",
     "braking-force-2",
@@ -381,6 +384,7 @@
     "night-vision-equipment",
     "oil-gathering",
     "oil-processing",
+    "pamk3-nvmk2",
     "personal-laser-defense-equipment",
     "personal-roboport-equipment",
     "physical-projectile-damage-1",
@@ -438,7 +442,7 @@
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 3672000,
-  "time": "2026-10-26T21:26:02Z",
+  "tick": 3833198,
+  "time": "2026-10-26T22:10:51Z",
   "version": 1
 }
