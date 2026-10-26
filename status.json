@@ -1,0 +1,34 @@
+{
+  "evolution": {
+    "nauvis": 0.7773
+  },
+  "format": "hacktorio-status",
+  "game_version": "2.1.23",
+  "map_age_seconds": 66094,
+  "max_players": 4,
+  "mods": {
+    "AutoDeconstruct": "1.1.2",
+    "DiscoScience": "2.1.0",
+    "Power Armor MK3": "2.1.09",
+    "RateCalculator": "3.4.2",
+    "SpidertronEnhancements": "1.11.0",
+    "SpidertronPatrols": "2.7.1",
+    "Todo-List": "19.15.3",
+    "bullet-trails": "0.8.0",
+    "flib": "0.17.2",
+    "mining-patch-planner": "1.7.22",
+    "pump": "2.2.4",
+    "realm-director": "0.1.0",
+    "realm-kits": "0.1.0",
+    "realm-research": "0.2.0",
+    "squeak-through-2": "0.2.1",
+    "textplates": "0.8.0",
+    "visible-planets": "1.8.2",
+    "vtk-armor-reach": "2.0.1"
+  },
+  "players_online": 1,
+  "up": true,
+  "up_since": "2026-10-26T21:19:20Z",
+  "updated": "2026-10-26T22:47:40Z",
+  "version": 1
+}
