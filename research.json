@@ -124,6 +124,7 @@
     "crude-oil-barrel",
     "decider-combinator",
     "defender-capsule",
+    "destroyer-capsule",
     "discharge-defense-equipment",
     "display-panel",
     "distractor-capsule",
@@ -322,6 +323,7 @@
     "concrete",
     "construction-robotics",
     "defender",
+    "destroyer",
     "discharge-defense-equipment",
     "distractor",
     "effect-transmission",
@@ -450,7 +452,7 @@
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 4004695,
-  "time": "2026-10-26T23:02:14Z",
+  "tick": 4015045,
+  "time": "2026-10-26T23:05:07Z",
   "version": 1
 }
