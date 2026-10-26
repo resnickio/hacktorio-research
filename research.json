@@ -219,6 +219,7 @@
     "plastic-bar",
     "poison-capsule",
     "power-armor",
+    "power-armor-mk2",
     "power-switch",
     "processing-unit",
     "production-science-pack",
@@ -401,6 +402,7 @@
     "physical-projectile-damage-5",
     "plastics",
     "power-armor",
+    "power-armor-mk2",
     "processing-unit",
     "production-science-pack",
     "productivity-module",
@@ -453,7 +455,7 @@
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 4104733,
-  "time": "2026-10-26T23:30:17Z",
+  "tick": 4125005,
+  "time": "2026-10-26T23:36:46Z",
   "version": 1
 }
