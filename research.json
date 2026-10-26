@@ -32,7 +32,7 @@
       "quality": "2.1.23",
       "realm-director": "0.2.0",
       "realm-kits": "0.1.0",
-      "realm-research": "0.2.0",
+      "realm-research": "0.3.0",
       "recycler": "2.1.23",
       "space-age": "2.1.23",
       "squeak-through-2": "0.2.1",
@@ -455,7 +455,7 @@
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 4125005,
-  "time": "2026-10-26T23:36:46Z",
+  "tick": 4164401,
+  "time": "2026-10-26T23:47:55Z",
   "version": 1
 }

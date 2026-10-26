@@ -1,10 +1,10 @@
 {
   "evolution": {
-    "nauvis": 0.7879
+    "nauvis": 0.7905
   },
   "format": "hacktorio-status",
   "game_version": "2.1.23",
-  "map_age_seconds": 68470,
+  "map_age_seconds": 69406,
   "max_players": 4,
   "mods": {
     "AutoDeconstruct": "1.1.2",
@@ -20,15 +20,15 @@
     "pump": "2.2.5",
     "realm-director": "0.2.0",
     "realm-kits": "0.1.0",
-    "realm-research": "0.2.0",
+    "realm-research": "0.3.0",
     "squeak-through-2": "0.2.1",
     "textplates": "0.8.0",
     "visible-planets": "1.8.2",
     "vtk-armor-reach": "2.0.1"
   },
-  "players_online": 1,
+  "players_online": 0,
   "up": true,
-  "up_since": "2026-10-26T23:30:08Z",
-  "updated": "2026-10-26T23:32:06Z",
+  "up_since": "2026-10-26T23:47:48Z",
+  "updated": "2026-10-26T23:48:13Z",
   "version": 1
 }
