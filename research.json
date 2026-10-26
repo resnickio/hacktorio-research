@@ -1,4 +1,17 @@
 {
+  "bonuses": {
+    "belt_stack_size_bonus": 0,
+    "bulk_inserter_capacity_bonus": 9,
+    "inserter_stack_size_bonus": 1,
+    "laboratory_productivity_bonus": 0,
+    "laboratory_speed_modifier": 1.9,
+    "maximum_following_robot_count": 30,
+    "mining_drill_productivity_bonus": 0.30000000000000004,
+    "train_braking_force_bonus": 0.7000000000000001,
+    "worker_robots_battery_modifier": 0,
+    "worker_robots_speed_modifier": 5.75,
+    "worker_robots_storage_bonus": 2
+  },
   "force": "player",
   "format": "fflowsheet-research",
   "game": {
@@ -19,7 +32,7 @@
       "quality": "2.1.23",
       "realm-director": "0.1.0",
       "realm-kits": "0.1.0",
-      "realm-research": "0.1.0",
+      "realm-research": "0.2.0",
       "recycler": "2.1.23",
       "space-age": "2.1.23",
       "squeak-through-2": "0.2.1",
@@ -28,6 +41,31 @@
       "vtk-armor-reach": "2.0.1"
     },
     "version": "2.1.23"
+  },
+  "levels": {
+    "artillery-shell-damage-1": 1,
+    "artillery-shell-range-1": 1,
+    "artillery-shell-speed-1": 1,
+    "asteroid-productivity": 1,
+    "electric-weapons-damage-4": 4,
+    "follower-robot-count-5": 5,
+    "health": 1,
+    "laser-weapons-damage-7": 7,
+    "low-density-structure-productivity": 1,
+    "mining-productivity-3": 4,
+    "physical-projectile-damage-7": 7,
+    "plastic-bar-productivity": 1,
+    "processing-unit-productivity": 1,
+    "railgun-damage-1": 1,
+    "railgun-shooting-speed-1": 1,
+    "refined-flammables-7": 7,
+    "research-productivity": 1,
+    "rocket-fuel-productivity": 1,
+    "rocket-part-productivity": 1,
+    "scrap-recycling-productivity": 1,
+    "steel-plate-productivity": 2,
+    "stronger-explosives-7": 7,
+    "worker-robots-speed-7": 7
   },
   "machines": [
     "assembling-machine-1",
@@ -45,6 +83,10 @@
     "steel-furnace",
     "stone-furnace"
   ],
+  "recipe_productivity": {
+    "casting-steel": 0.1,
+    "steel-plate": 0.1
+  },
   "recipes": [
     "accumulator",
     "advanced-circuit",
@@ -397,6 +439,6 @@
     "worker-robots-storage-2"
   ],
   "tick": 3650130,
-  "time": "2026-10-26T05:38:07Z",
+  "time": "2026-10-26T21:19:27Z",
   "version": 1
 }
