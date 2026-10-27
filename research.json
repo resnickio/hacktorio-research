@@ -189,6 +189,7 @@
     "iron-gear-wheel",
     "iron-plate",
     "iron-stick",
+    "kovarex-enrichment-process",
     "lab",
     "land-mine",
     "landfill",
@@ -208,6 +209,7 @@
     "military-science-pack",
     "modular-armor",
     "night-vision-equipment",
+    "nuclear-fuel",
     "nuclear-fuel-reprocessing",
     "nuclear-reactor",
     "offshore-pump",
@@ -391,6 +393,7 @@
     "inserter-capacity-bonus-5",
     "inserter-capacity-bonus-6",
     "inserter-capacity-bonus-7",
+    "kovarex-enrichment-process",
     "lamp",
     "land-mine",
     "landfill",
@@ -506,7 +509,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 5050587,
-  "time": "2026-10-27T04:03:32Z",
+  "tick": 5099797,
+  "time": "2026-10-27T05:38:07Z",
   "version": 1
 }
