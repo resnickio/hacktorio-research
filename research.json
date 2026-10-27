@@ -150,6 +150,7 @@
     "exoskeleton-equipment",
     "explosive-cannon-shell",
     "explosive-rocket",
+    "explosive-uranium-cannon-shell",
     "explosives",
     "express-splitter",
     "express-transport-belt",
@@ -305,8 +306,10 @@
     "train-stop",
     "transport-belt",
     "underground-belt",
+    "uranium-cannon-shell",
     "uranium-fuel-cell",
     "uranium-processing",
+    "uranium-rounds-magazine",
     "utility-science-pack",
     "water-barrel",
     "wooden-chest"
@@ -468,6 +471,7 @@
     "textplates-steel",
     "textplates-uranium",
     "toolbelt",
+    "uranium-ammo",
     "uranium-mining",
     "uranium-processing",
     "utility-science-pack",
@@ -485,7 +489,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 4510635,
-  "time": "2026-10-27T01:32:22Z",
+  "tick": 4575030,
+  "time": "2026-10-27T01:50:17Z",
   "version": 1
 }
