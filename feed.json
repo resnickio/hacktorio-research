@@ -1,0 +1,77 @@
+{
+  "entries": [
+    {
+      "by": "agent",
+      "id": 7,
+      "milestone": "build:nuclear-reactor",
+      "reward": null,
+      "scope": "personal",
+      "text": "The Biter-Proof Underground Belt has built a nuclear reactor after about 3 hours of play. Bold choice for a first reactor, and we hope the neighbours have been told. Well done.",
+      "time": "2026-10-27T04:06:37Z",
+      "who": "the Biter-Proof Underground Belt"
+    },
+    {
+      "by": "template",
+      "id": 6,
+      "milestone": "build:nuclear-reactor",
+      "reward": null,
+      "scope": "personal",
+      "text": "An engineer built their first nuclear reactor.",
+      "time": "2026-10-27T03:51:02Z",
+      "who": "an engineer"
+    },
+    {
+      "by": "agent",
+      "id": 5,
+      "milestone": "research:space-science-pack",
+      "reward": "5 space-platform-foundation, 1 radar, 1 landfill",
+      "scope": "team",
+      "text": "Space science is researched. the Biter-Proof Underground Belt, holding the fort alone, can now officially say the team has a space program. Here are some space platform foundations to get you off the ground, and a few extras for when you land.",
+      "time": "2026-10-27T03:50:19Z",
+      "who": "the team"
+    },
+    {
+      "by": "template",
+      "id": 4,
+      "milestone": "launch:platform",
+      "reward": "20 repair-pack",
+      "scope": "team",
+      "text": "The team built its first space platform.",
+      "time": "2026-10-27T03:44:05Z",
+      "who": "the team"
+    },
+    {
+      "by": "template",
+      "id": 3,
+      "milestone": "launch:rocket",
+      "reward": "20 repair-pack",
+      "scope": "team",
+      "text": "The team launched its first rocket.",
+      "time": "2026-10-27T03:43:57Z",
+      "who": "the team"
+    },
+    {
+      "by": "agent",
+      "id": 2,
+      "milestone": "build:rocket-silo",
+      "reward": "10 rocket-fuel",
+      "scope": "personal",
+      "text": "The Biter-Proof Underground Belt has built a rocket silo after about two hours on Nauvis. Most of us are still sorting out the iron belts. The silo is a fine place to start a conversation about ambition, and some rocket fuel to go with it.",
+      "time": "2026-10-27T03:29:41Z",
+      "who": "the Biter-Proof Underground Belt"
+    },
+    {
+      "by": "agent",
+      "id": 1,
+      "milestone": "build:locomotive",
+      "reward": "2 cargo-wagon, 2 train-stop, 1 fluid-wagon",
+      "scope": "personal",
+      "text": "The Steam-Powered Rail Signal has built their first locomotive, a mere 1313 minutes in. The trains are coming, and so, inevitably, is the debate about signals. Here are some cargo wagons, train stops and fuel to get things rolling.",
+      "time": "2026-10-27T02:42:29Z",
+      "who": "the Steam-Powered Rail Signal"
+    }
+  ],
+  "format": "hacktorio-feed",
+  "updated": "2026-10-27T11:33:07Z",
+  "version": 1
+}
