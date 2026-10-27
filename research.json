@@ -401,6 +401,7 @@
     "physical-projectile-damage-3",
     "physical-projectile-damage-4",
     "physical-projectile-damage-5",
+    "physical-projectile-damage-6",
     "plastics",
     "power-armor",
     "power-armor-mk2",
@@ -457,7 +458,7 @@
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 4212000,
-  "time": "2026-10-27T00:01:51Z",
+  "tick": 4255281,
+  "time": "2026-10-27T00:13:53Z",
   "version": 1
 }
