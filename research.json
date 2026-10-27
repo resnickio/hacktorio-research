@@ -193,6 +193,7 @@
     "lab",
     "land-mine",
     "landfill",
+    "landing-pad-unloading-bay",
     "laser-turret",
     "light-armor",
     "light-oil-barrel",
@@ -397,6 +398,7 @@
     "lamp",
     "land-mine",
     "landfill",
+    "landing-pad-unloading-bay",
     "laser",
     "laser-shooting-speed-1",
     "laser-shooting-speed-2",
@@ -509,7 +511,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 5113060,
-  "time": "2026-10-27T12:47:42Z",
+  "tick": 5148000,
+  "time": "2026-10-27T16:00:37Z",
   "version": 1
 }
