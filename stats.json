@@ -1,7 +1,7 @@
 {
   "by_planet": {
     "nauvis": {
-      "enemies": 5571,
+      "enemies": 5629,
       "nests": 299,
       "worms": 279
     }
@@ -11,12 +11,12 @@
   "format": "realm-stats",
   "kills": {
     "asteroids": 0,
-    "enemies": 5571,
+    "enemies": 5629,
     "nests": 299,
-    "total": 6149,
+    "total": 6207,
     "worms": 279
   },
-  "tick": 4802400,
-  "time": "2026-10-27T02:53:40Z",
+  "tick": 4838400,
+  "time": "2026-10-27T03:03:43Z",
   "version": 1
 }
