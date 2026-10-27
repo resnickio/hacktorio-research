@@ -1,10 +1,10 @@
 {
   "evolution": {
-    "nauvis": 0.8595
+    "nauvis": 0.8607
   },
   "format": "hacktorio-status",
   "game_version": "2.1.23",
-  "map_age_seconds": 94178,
+  "map_age_seconds": 94956,
   "max_players": 4,
   "mods": {
     "AutoDeconstruct": "1.1.2",
@@ -26,9 +26,9 @@
     "visible-planets": "1.8.2",
     "vtk-armor-reach": "2.0.1"
   },
-  "players_online": 1,
+  "players_online": 2,
   "up": true,
   "up_since": "2026-10-27T12:47:33Z",
-  "updated": "2026-10-27T22:53:16Z",
+  "updated": "2026-10-27T23:06:16Z",
   "version": 1
 }
