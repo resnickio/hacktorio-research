@@ -1,8 +1,8 @@
 {
   "bonuses": {
     "belt_stack_size_bonus": 0,
-    "bulk_inserter_capacity_bonus": 9,
-    "inserter_stack_size_bonus": 1,
+    "bulk_inserter_capacity_bonus": 11,
+    "inserter_stack_size_bonus": 2,
     "laboratory_productivity_bonus": 0,
     "laboratory_speed_modifier": 2.5,
     "maximum_following_robot_count": 50,
@@ -379,6 +379,7 @@
     "inserter-capacity-bonus-4",
     "inserter-capacity-bonus-5",
     "inserter-capacity-bonus-6",
+    "inserter-capacity-bonus-7",
     "lamp",
     "land-mine",
     "landfill",
@@ -491,7 +492,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 4700300,
-  "time": "2026-10-27T02:25:06Z",
+  "tick": 4752000,
+  "time": "2026-10-27T02:39:29Z",
   "version": 1
 }
