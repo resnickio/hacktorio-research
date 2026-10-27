@@ -4,7 +4,7 @@
   },
   "format": "hacktorio-status",
   "game_version": "2.1.23",
-  "map_age_seconds": 85205,
+  "map_age_seconds": 85217,
   "max_players": 4,
   "mods": {
     "AutoDeconstruct": "1.1.2",
@@ -18,7 +18,7 @@
     "flib": "0.17.2",
     "mining-patch-planner": "1.7.22",
     "pump": "2.2.5",
-    "realm-director": "0.2.0",
+    "realm-director": "0.2.1",
     "realm-kits": "0.1.0",
     "realm-research": "0.3.0",
     "squeak-through-2": "0.2.1",
@@ -28,7 +28,7 @@
   },
   "players_online": 0,
   "up": true,
-  "up_since": "2026-10-26T23:47:48Z",
-  "updated": "2026-10-27T12:23:16Z",
+  "up_since": "2026-10-27T12:47:33Z",
+  "updated": "2026-10-27T12:48:06Z",
   "version": 1
 }
