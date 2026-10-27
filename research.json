@@ -457,6 +457,7 @@
     "weapon-shooting-speed-3",
     "weapon-shooting-speed-4",
     "weapon-shooting-speed-5",
+    "weapon-shooting-speed-6",
     "worker-robots-speed-1",
     "worker-robots-speed-2",
     "worker-robots-speed-3",
@@ -464,7 +465,7 @@
     "worker-robots-storage-1",
     "worker-robots-storage-2"
   ],
-  "tick": 4372755,
-  "time": "2026-10-27T00:54:03Z",
+  "tick": 4404418,
+  "time": "2026-10-27T01:02:51Z",
   "version": 1
 }
