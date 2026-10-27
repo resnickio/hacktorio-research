@@ -159,6 +159,7 @@
     "fast-transport-belt",
     "fast-underground-belt",
     "firearm-magazine",
+    "fission-reactor-equipment",
     "flamethrower",
     "flamethrower-ammo",
     "flamethrower-turret",
@@ -356,6 +357,7 @@
     "explosive-rocketry",
     "explosives",
     "fast-inserter",
+    "fission-reactor-equipment",
     "flamethrower",
     "flammables",
     "fluid-handling",
@@ -483,7 +485,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 4502692,
-  "time": "2026-10-27T01:30:10Z",
+  "tick": 4510635,
+  "time": "2026-10-27T01:32:22Z",
   "version": 1
 }
