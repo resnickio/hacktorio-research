@@ -221,6 +221,7 @@
     "pamk3-hvest",
     "pamk3-lvest",
     "pamk3-nvmk2",
+    "pamk3-pamk3",
     "pamk3-pdd",
     "parameter-0",
     "parameter-1",
@@ -448,6 +449,7 @@
     "oil-gathering",
     "oil-processing",
     "pamk3-nvmk2",
+    "pamk3-pamk3",
     "pamk3-pdd",
     "personal-laser-defense-equipment",
     "personal-roboport-equipment",
@@ -527,7 +529,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 5990848,
-  "time": "2026-10-28T00:27:52Z",
+  "tick": 6038166,
+  "time": "2026-10-28T00:41:01Z",
   "version": 1
 }
