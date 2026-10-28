@@ -503,6 +503,7 @@
     "stronger-explosives-2",
     "stronger-explosives-3",
     "stronger-explosives-4",
+    "stronger-explosives-5",
     "sulfur-processing",
     "tank",
     "textplates-concrete",
@@ -530,7 +531,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 6051032,
-  "time": "2026-10-28T00:44:36Z",
+  "tick": 6063889,
+  "time": "2026-10-28T00:48:10Z",
   "version": 1
 }
