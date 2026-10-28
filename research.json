@@ -379,6 +379,7 @@
     "electric-engine",
     "electric-mining-drill",
     "electric-weapons-damage-1",
+    "electric-weapons-damage-2",
     "electronics",
     "elevated-rail",
     "energy-shield-equipment",
@@ -529,7 +530,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 6038166,
-  "time": "2026-10-28T00:41:01Z",
+  "tick": 6051032,
+  "time": "2026-10-28T00:44:36Z",
   "version": 1
 }
