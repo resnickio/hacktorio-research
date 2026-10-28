@@ -7,7 +7,7 @@
     "laboratory_speed_modifier": 2.5,
     "maximum_following_robot_count": 50,
     "mining_drill_productivity_bonus": 0.5,
-    "train_braking_force_bonus": 0.85,
+    "train_braking_force_bonus": 1,
     "worker_robots_battery_modifier": 0,
     "worker_robots_speed_modifier": 7.4,
     "worker_robots_storage_bonus": 3
@@ -358,6 +358,7 @@
     "braking-force-4",
     "braking-force-5",
     "braking-force-6",
+    "braking-force-7",
     "bulk-inserter",
     "chemical-science-pack",
     "circuit-network",
@@ -524,7 +525,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 5439451,
-  "time": "2026-10-27T21:54:14Z",
+  "tick": 5987624,
+  "time": "2026-10-28T00:26:58Z",
   "version": 1
 }
