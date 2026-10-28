@@ -2,6 +2,16 @@
   "entries": [
     {
       "by": "agent",
+      "id": 8,
+      "milestone": "build:roboport",
+      "reward": "10 construction-robot",
+      "scope": "personal",
+      "text": "The Molten Rail Signal has built their first roboport after about two hours on Nauvis. The robots will want somewhere to live, so here are some to move in. Please do not let them near the spaghetti.",
+      "time": "2026-10-28T01:23:19Z",
+      "who": "the Molten Rail Signal"
+    },
+    {
+      "by": "agent",
       "id": 7,
       "milestone": "build:nuclear-reactor",
       "reward": null,
@@ -72,6 +82,6 @@
     }
   ],
   "format": "hacktorio-feed",
-  "updated": "2026-10-27T11:33:07Z",
+  "updated": "2026-10-28T01:24:17Z",
   "version": 1
 }
