@@ -9,7 +9,7 @@
     "mining_drill_productivity_bonus": 0.5,
     "train_braking_force_bonus": 1,
     "worker_robots_battery_modifier": 0,
-    "worker_robots_speed_modifier": 7.4,
+    "worker_robots_speed_modifier": 8.05,
     "worker_robots_storage_bonus": 3
   },
   "force": "player",
@@ -532,11 +532,12 @@
     "worker-robots-speed-3",
     "worker-robots-speed-4",
     "worker-robots-speed-5",
+    "worker-robots-speed-6",
     "worker-robots-storage-1",
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 6498743,
-  "time": "2026-10-29T00:24:26Z",
+  "tick": 6524471,
+  "time": "2026-10-29T00:31:35Z",
   "version": 1
 }
