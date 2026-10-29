@@ -63,7 +63,7 @@
     "rocket-fuel-productivity": 1,
     "rocket-part-productivity": 1,
     "scrap-recycling-productivity": 1,
-    "steel-plate-productivity": 3,
+    "steel-plate-productivity": 4,
     "stronger-explosives-7": 7,
     "worker-robots-speed-7": 7
   },
@@ -87,8 +87,8 @@
     "stone-furnace"
   ],
   "recipe_productivity": {
-    "casting-steel": 0.2,
-    "steel-plate": 0.2
+    "casting-steel": 0.3,
+    "steel-plate": 0.3
   },
   "recipes": [
     "accumulator",
@@ -537,7 +537,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 6524471,
-  "time": "2026-10-29T00:31:35Z",
+  "tick": 6609082,
+  "time": "2026-10-29T00:55:06Z",
   "version": 1
 }
