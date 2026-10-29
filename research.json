@@ -6,7 +6,7 @@
     "laboratory_productivity_bonus": 0,
     "laboratory_speed_modifier": 2.5,
     "maximum_following_robot_count": 50,
-    "mining_drill_productivity_bonus": 0.5,
+    "mining_drill_productivity_bonus": 0.6,
     "train_braking_force_bonus": 1,
     "worker_robots_battery_modifier": 0,
     "worker_robots_speed_modifier": 8.05,
@@ -52,7 +52,7 @@
     "health": 1,
     "laser-weapons-damage-7": 7,
     "low-density-structure-productivity": 1,
-    "mining-productivity-3": 6,
+    "mining-productivity-3": 7,
     "physical-projectile-damage-7": 7,
     "plastic-bar-productivity": 1,
     "processing-unit-productivity": 1,
@@ -537,7 +537,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 6609082,
-  "time": "2026-10-29T00:55:06Z",
+  "tick": 6711939,
+  "time": "2026-10-29T01:23:43Z",
   "version": 1
 }
