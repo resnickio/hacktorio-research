@@ -285,6 +285,7 @@
     "solid-fuel-from-light-oil",
     "solid-fuel-from-petroleum-gas",
     "sp-spiderling",
+    "sp-spidertron-dock",
     "space-platform-foundation",
     "space-platform-starter-pack",
     "space-science-pack",
@@ -493,6 +494,7 @@
     "solar-energy",
     "solar-panel-equipment",
     "sp-spiderling",
+    "sp-spidertron-automation",
     "space-platform",
     "space-platform-thruster",
     "space-science-pack",
@@ -534,7 +536,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 6175751,
-  "time": "2026-10-28T01:19:16Z",
+  "tick": 6498743,
+  "time": "2026-10-29T00:24:26Z",
   "version": 1
 }
