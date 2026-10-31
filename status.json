@@ -4,7 +4,7 @@
   },
   "format": "hacktorio-status",
   "game_version": "2.1.24",
-  "map_age_seconds": 115146,
+  "map_age_seconds": 115177,
   "max_players": 4,
   "mods": {
     "AutoDeconstruct": "1.1.2",
@@ -29,6 +29,6 @@
   "players_online": 0,
   "up": true,
   "up_since": "2026-10-30T23:09:10Z",
-  "updated": "2026-10-31T10:19:06Z",
+  "updated": "2026-10-31T11:19:06Z",
   "version": 1
 }
