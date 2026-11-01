@@ -2,6 +2,16 @@
   "entries": [
     {
       "by": "agent",
+      "id": 10,
+      "milestone": "research:planet-discovery-fulgora",
+      "reward": "20 repair-pack",
+      "scope": "team",
+      "text": "The team has researched Fulgora, a world of lightning and scrap. The Biter-Proof Underground Belt, holding the fort alone, gets to find out what 'recycling' really means. Here are some repair packs for the storms.",
+      "time": "2026-11-01T07:18:39Z",
+      "who": "the team"
+    },
+    {
+      "by": "agent",
       "id": 9,
       "milestone": "research:planet-discovery-vulcanus",
       "reward": "20 repair-pack",
@@ -92,6 +102,6 @@
     }
   ],
   "format": "hacktorio-feed",
-  "updated": "2026-11-01T06:48:38Z",
+  "updated": "2026-11-01T07:20:17Z",
   "version": 1
 }

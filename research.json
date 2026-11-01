@@ -201,6 +201,7 @@
     "light-armor",
     "light-oil-barrel",
     "light-oil-cracking",
+    "lightning-rod",
     "locomotive",
     "logistic-robot",
     "logistic-science-pack",
@@ -463,6 +464,7 @@
     "physical-projectile-damage-4",
     "physical-projectile-damage-5",
     "physical-projectile-damage-6",
+    "planet-discovery-fulgora",
     "planet-discovery-vulcanus",
     "plastics",
     "power-armor",
@@ -538,7 +540,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 7053815,
-  "time": "2026-11-01T07:09:11Z",
+  "tick": 7092000,
+  "time": "2026-11-01T07:19:48Z",
   "version": 1
 }
