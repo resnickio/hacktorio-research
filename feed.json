@@ -2,6 +2,16 @@
   "entries": [
     {
       "by": "agent",
+      "id": 9,
+      "milestone": "research:planet-discovery-vulcanus",
+      "reward": "20 repair-pack",
+      "scope": "team",
+      "text": "Vulcanus discovered. The Biter-Proof Underground Belt, holding the fort alone, has located a planet made of lava and ambition. Have some repair packs for the inevitable foundry-adjacent mishaps.",
+      "time": "2026-11-01T06:48:38Z",
+      "who": "the team"
+    },
+    {
+      "by": "agent",
       "id": 8,
       "milestone": "build:roboport",
       "reward": "10 construction-robot",
@@ -82,6 +92,6 @@
     }
   ],
   "format": "hacktorio-feed",
-  "updated": "2026-10-28T01:24:17Z",
+  "updated": "2026-11-01T06:48:38Z",
   "version": 1
 }

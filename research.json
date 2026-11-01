@@ -463,6 +463,7 @@
     "physical-projectile-damage-4",
     "physical-projectile-damage-5",
     "physical-projectile-damage-6",
+    "planet-discovery-vulcanus",
     "plastics",
     "power-armor",
     "power-armor-mk2",
@@ -537,7 +538,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 6887903,
-  "time": "2026-10-30T23:09:19Z",
+  "tick": 6979625,
+  "time": "2026-11-01T06:48:34Z",
   "version": 1
 }
