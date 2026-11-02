@@ -466,6 +466,7 @@
     "physical-projectile-damage-5",
     "physical-projectile-damage-6",
     "planet-discovery-fulgora",
+    "planet-discovery-gleba",
     "planet-discovery-vulcanus",
     "plastics",
     "power-armor",
@@ -541,7 +542,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 7334276,
-  "time": "2026-11-01T20:36:37Z",
+  "tick": 7588091,
+  "time": "2026-11-02T00:00:12Z",
   "version": 1
 }

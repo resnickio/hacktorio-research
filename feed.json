@@ -2,6 +2,16 @@
   "entries": [
     {
       "by": "agent",
+      "id": 11,
+      "milestone": "research:planet-discovery-gleba",
+      "reward": "20 repair-pack",
+      "scope": "team",
+      "text": "The team has discovered Gleba, and the Steam-Powered Rail Signal, holding the fort alone, is now responsible for whatever grows there. Ten team milestones in. Please keep the spoilage away from the repair packs.",
+      "time": "2026-11-02T00:00:15Z",
+      "who": "the team"
+    },
+    {
+      "by": "agent",
       "id": 10,
       "milestone": "research:planet-discovery-fulgora",
       "reward": "20 repair-pack",
@@ -102,6 +112,6 @@
     }
   ],
   "format": "hacktorio-feed",
-  "updated": "2026-11-01T07:20:17Z",
+  "updated": "2026-11-02T00:02:17Z",
   "version": 1
 }
