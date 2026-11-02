@@ -2,6 +2,16 @@
   "entries": [
     {
       "by": "agent",
+      "id": 12,
+      "milestone": "planet:vulcanus",
+      "reward": "2 electric-furnace, 3 gun-turret, 6 construction-robot, 1 heavy-armor, 4 landfill",
+      "scope": "personal",
+      "text": "The Biter-Proof Underground Belt has touched down on Vulcanus after about 6 hours. Lava, volcanoes and a lot of rock to hit. Here are some tools for the first few minutes of regret.",
+      "time": "2026-11-02T04:35:51Z",
+      "who": "the Biter-Proof Underground Belt"
+    },
+    {
+      "by": "agent",
       "id": 11,
       "milestone": "research:planet-discovery-gleba",
       "reward": "20 repair-pack",
@@ -112,6 +122,6 @@
     }
   ],
   "format": "hacktorio-feed",
-  "updated": "2026-11-02T00:02:17Z",
+  "updated": "2026-11-02T04:36:17Z",
   "version": 1
 }
