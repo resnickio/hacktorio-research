@@ -1,11 +1,11 @@
 {
   "evolution": {
     "nauvis": 0.9171,
-    "vulcanus": 0.0094
+    "vulcanus": 0.0095
   },
   "format": "hacktorio-status",
   "game_version": "2.1.24",
-  "map_age_seconds": 130056,
+  "map_age_seconds": 130088,
   "max_players": 4,
   "mods": {
     "AutoDeconstruct": "1.1.2",
@@ -31,6 +31,6 @@
   "players_online": 0,
   "up": true,
   "up_since": "2026-11-01T20:00:49Z",
-  "updated": "2026-11-02T05:15:16Z",
+  "updated": "2026-11-02T06:17:01Z",
   "version": 1
 }
