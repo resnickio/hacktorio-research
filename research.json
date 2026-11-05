@@ -54,7 +54,7 @@
     "laser-weapons-damage-7": 9,
     "low-density-structure-productivity": 1,
     "mining-productivity-3": 9,
-    "physical-projectile-damage-7": 8,
+    "physical-projectile-damage-7": 9,
     "plastic-bar-productivity": 1,
     "processing-unit-productivity": 1,
     "railgun-damage-1": 1,
@@ -543,7 +543,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 7887973,
-  "time": "2026-11-04T02:30:01Z",
+  "tick": 7939402,
+  "time": "2026-11-05T06:00:21Z",
   "version": 1
 }
