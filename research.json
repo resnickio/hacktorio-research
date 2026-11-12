@@ -51,7 +51,7 @@
     "electric-weapons-damage-4": 4,
     "follower-robot-count-5": 6,
     "health": 1,
-    "laser-weapons-damage-7": 10,
+    "laser-weapons-damage-7": 11,
     "low-density-structure-productivity": 1,
     "mining-productivity-3": 9,
     "physical-projectile-damage-7": 9,
@@ -543,7 +543,7 @@
     "worker-robots-storage-2",
     "worker-robots-storage-3"
   ],
-  "tick": 8055129,
-  "time": "2026-11-07T19:55:07Z",
+  "tick": 8263946,
+  "time": "2026-11-12T11:36:56Z",
   "version": 1
 }
