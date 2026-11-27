@@ -10,13 +10,13 @@
   "force": "player",
   "format": "realm-stats",
   "kills": {
-    "asteroids": 17277,
+    "asteroids": 17418,
     "enemies": 78649,
     "nests": 344,
     "total": 79313,
     "worms": 320
   },
-  "tick": 8978400,
-  "time": "2026-11-27T11:54:30Z",
+  "tick": 8985600,
+  "time": "2026-11-27T15:31:32Z",
   "version": 1
 }
